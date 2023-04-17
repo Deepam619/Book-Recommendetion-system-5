@@ -10,4 +10,4 @@ The objective of this project is to develop a book recommendation application fo
 
 # Demo link: 
 
-https://divyapondkule-brs-project-app-llrwr4.streamlit.app/
+https://deepam619-book-recommendetion-system-5-app-1eefoz.streamlit.app/
